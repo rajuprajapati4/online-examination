@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Project Worlds || FEEDBACK </title>
+<title> FEEDBACK </title>
 <link  rel="stylesheet" href="css/bootstrap.min.css"/>
  <link  rel="stylesheet" href="css/bootstrap-theme.min.css"/>    
  <link rel="stylesheet" href="css/main.css">
@@ -99,7 +99,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">sunnygkp10@gmail.com</a><br /><br />
+<a href="mailto:" style="color:#000000">abc@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
 <p>Or you can directly submit your feedback by filling the enteries below:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
